@@ -1,0 +1,20 @@
+{
+  "hola": {
+    "respuesta": "¡Hola! ¿Cómo puedo ayudarte hoy?"
+  },
+  "ayuda": {
+    "respuesta": "Aquí están los comandos que puedes usar:\n/start - Inicia la conversación con el bot\n/help - Muestra este mensaje de ayuda"
+  },
+  "Necesito ayuda": {
+    "respuesta": "¡Claro! ¿En qué puedo ayudarte?"
+  },
+  "Quiero saber más sobre el bot": {
+    "respuesta": "¡Claro! Soy un bot creado por el equipo de desarrollo de Bradley Corro y Jhostyn Gavilanez de la Universidad de las Fuerzas Armadas ESPE. Puedo ayudarte con el aplicativo de tu establecimiento. ¡Pregúntame lo que quieras!"
+  },
+  "Quiero un plato de comida": {
+    "respuesta": "Para pedir un plato de comida, puedes tocar el botón izquierdo del teclado y abrir el menú."
+  },
+  "Necesito saber cómo puedo ordenar un plato": {
+    "respuesta": "Para ordenar un plato, por favor toca el botón izquierdo del teclado y abre el menú de pedidos."
+  }
+}
